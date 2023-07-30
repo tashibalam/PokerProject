@@ -1,0 +1,35 @@
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\front desk manager\Downloads\PokerProject2\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\front desk manager\Downloads\PokerProject2\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\front desk manager\Downloads\PokerProject2\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\front desk manager\Downloads\PokerProject2\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\front desk manager\Downloads\PokerProject2\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\obj\Debug\CardLibrary.csproj.AssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache

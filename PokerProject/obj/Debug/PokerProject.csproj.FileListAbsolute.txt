@@ -1,0 +1,61 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod09- enums\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectStart\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\obj\Debug\PokerProject.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject2\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\obj\Debug\PokerProject.csprojAssemblyReference.cache
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Tashib\Downloads\PokerProject2-1\PokerProject2\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\obj\Debug\PokerProject.csprojAssemblyReference.cache
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\front desk manager\Downloads\PokerProject2\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\obj\Debug\PokerProject.csprojAssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProject\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\obj\Debug\PokerProject.csproj.CopyComplete
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\obj\Debug\PokerProject.csproj.AssemblyReference.cache
+C:\Users\Tashib\Documents\SCHOOL\PROG 120\PokerProjectRevised2\PokerProject\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
